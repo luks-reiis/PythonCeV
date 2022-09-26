@@ -1,0 +1,6 @@
+print('Agora, conte um pouco sobre você!')
+print('Quando você nasceu?')
+dia=input('No dia:')
+mes=input('Do mês:')
+ano=input('Do ano:')
+print('Você nasceu no dia',dia,'de',mes,'de',ano,'. Correto?')

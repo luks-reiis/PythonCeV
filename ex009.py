@@ -1,0 +1,22 @@
+print('===Tabuada de um número===')
+n=float(input('Digite um número:'))
+t0=n*0
+t1=n*1
+t2=n*2
+t3=n*3
+t4=n*4
+t5=n*5
+t6=n*6
+t7=n*7
+t8=n*8
+t9=n*9
+print('{} X 0 = {}'.format(n,t0))
+print('{} X 1 = {}'.format(n,t1))
+print('{} X 2 = {}'.format(n,t2))
+print('{} X 3 = {}'.format(n,t3))
+print('{} X 4 = {}'.format(n,t4))
+print('{} X 5 = {}'.format(n,t5))
+print('{} X 6 = {}'.format(n,t6))
+print('{} X 7 = {}'.format(n,t7))
+print('{} X 8 = {}'.format(n,t8))
+print('{} X 9 = {}'.format(n,t9))

@@ -1,0 +1,10 @@
+print('===Seno, Cosseno e Tangente===')
+import math
+ang = float(input('Informe o ângulo em graus:'))
+rad = math.radians(ang)
+sen = math.sin(rad)
+cos = math.cos(rad)
+tan = math.tan(rad)
+print('Seno de {}° = {:.3f}.'.format(ang,sen))
+print('Cosseno de {}° = {:.3f}.'.format(ang,cos))
+print('Tangente de {}° = {:.3f}.'.format(ang,tan))
